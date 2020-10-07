@@ -8,7 +8,7 @@
 
 This repo contains all my work for this specialization which consists of 5 courses. All the code base and images, are taken from [Applied Data Science with Python Specialization](https://www.coursera.org/specializations/data-science-python).
 
-*I took this course as a follow up to Andrew Ng's [Machine Learning Course](https://github.com/adamsiemaszkiewicz/coursera_machine-learning) after I had gained some Python knowledge thanks to [Python for Everybody Course](https://github.com/adamsiemaszkiewicz/coursera_python-for-everybody) and applying the knowledge in [my first Python project](https://github.com/adamsiemaszkiewicz/eargasm2spotify). The course gives a thorough overview through the most important concepts *
+*I took this course as a follow up to Andrew Ng's [Machine Learning Course](https://github.com/adamsiemaszkiewicz/coursera_machine-learning) after I had gained some Python knowledge thanks to [Python for Everybody Course](https://github.com/adamsiemaszkiewicz/coursera_python-for-everybody) and applying the knowledge in [my first Python project](https://github.com/adamsiemaszkiewicz/eargasm2spotify). The course gives a thorough overview through the most important concepts of data science and how to apply them using Python, Jupyter Notebook and various libraries/frameworks.*
 
 ## Courses
 
